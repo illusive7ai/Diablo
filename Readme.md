@@ -3,6 +3,8 @@
 ## Overview
 Diablo is a powerful, multi-threaded proxy tool that combines proxy scraping, checking and management in one comprehensive solution. It features real-time results display, support for multiple proxy sources and both online and local proxy testing capabilities.
 
+![Screenshot](diablo1.png)
+
 ## Features
 [+] Auto-fetch proxies from 13+ online sources
 [+] Multi-threaded proxy checking (up to 50 concurrent threads)
@@ -12,6 +14,10 @@ Diablo is a powerful, multi-threaded proxy tool that combines proxy scraping, ch
 [+] Export working proxies to file
 [+] Beautiful ASCII banner and animated interface
 [+] Password protection for security
+
+![Screenshot](diablo2.png)
+
+![Screenshot](diablo3.png)
 
 ## Installation
 
