@@ -1,4 +1,4 @@
-# Diablo - Advanced Proxy Tool by IllusiveHacks
+# Diablo - Advanced Proxy Tool by IllusiveHacks.
 
 ## Overview
 Diablo is a powerful, multi-threaded proxy tool that combines proxy scraping, checking and management in one comprehensive solution. It features real-time results display, support for multiple proxy sources and both online and local proxy testing capabilities.
